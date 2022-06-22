@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "nosoi"]
+	path = nosoi
+	url = https://github.com/slequime/nosoi
+	shallow = true
+	registered = true
